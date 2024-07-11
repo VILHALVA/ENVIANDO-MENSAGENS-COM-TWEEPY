@@ -1,7 +1,7 @@
 # ENVIANDO MENSAGENS COM TWEEPY
 🚀PROJETO CRIADO NO CURSO DE TWEEPY.
 
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="IMAGEM.png" align="center" width="400"> <br>
 
 ## DESCRIÇÃO:
 Este bot desenvolvido em Python com a biblioteca Tweepy tem como principal funcionalidade enviar mensagens diretas automatizadas para usuários específicos no Twitter. Ele pode ser configurado para enviar mensagens diretas personalizadas para qualquer usuário do Twitter especificado pelo nome de usuário.
