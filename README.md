@@ -1,5 +1,5 @@
 # ENVIANDO MENSAGENS COM TWEEPY
-🚀PROJETO CRIADO NO CURSO DE TWEEPY.
+🚀ESTE BOT TEM COMO FUNCIONALIDADE ENVIAR MENSAGENS DIRETAS AUTOMATIZADAS PARA USUÁRIOS ESPECÍFICOS NO TWITTER.
 
 <img src="IMAGEM.png" align="center" width="400"> <br>
 
@@ -52,11 +52,11 @@ Este bot desenvolvido em Python com a biblioteca Tweepy tem como principal funci
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em muitas linguagens e tecnologias relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
+* [CURSO DE TWEEPY](https://github.com/VILHALVA/CURSO-DE-TWEEPY)
 * [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 * [CURSO DE JSON](https://github.com/VILHALVA/CURSO-DE-JSON)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
-- [PROJETO CRIADO NO CURSO DE TWEEPY](https://github.com/VILHALVA/CURSO-DE-TWEEPY)
-- [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
 
